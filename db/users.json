@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "name": "Lochin",
+    "weight": 20,
+    "password": "fegv4352",
+    "data": "2023-02-18T15:45:01.121Z"
+  },
+  {
+    "id": 2,
+    "name": "Dilshodbek",
+    "weight": 0,
+    "password": "fegv4352",
+    "data": "2023-02-18T15:45:19.306Z"
+  },
+  {
+    "id": 3,
+    "name": "Suxrob",
+    "weight": 0,
+    "password": "fegv4352",
+    "data": "2023-02-18T15:45:28.779Z"
+  }
+]
